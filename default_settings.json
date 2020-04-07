@@ -1,0 +1,19 @@
+{
+    "scroll_coefficient": 10,
+    "y_inv": -1,
+    "vscode_mode": true,
+    "visual_mode": false,
+    "accurate": true,
+    "running": false,
+    "no_effect_area_up": 0.5,
+    "no_effect_area_down": -0.5,
+    "y_scroll_thresh_up": 3,
+    "y_scroll_thresh_down": -3,
+    "shortcuts": {
+        "toggle_vscode_mode": ["v", ["cmd", "ctrl"]],
+        "toggle_visual_mode": ["e", ["cmd", "ctrl"]],
+        "toggle_accurate_mode": ["a", ["cmd", "ctrl"]],
+        "toggle_running_mode": ["s", ["cmd", "ctrl"]],
+        "quit_program": ["q", ["cmd", "ctrl"]]
+    }
+}
