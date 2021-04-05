@@ -14,7 +14,7 @@ editing, correspondingly.
 
 ## License
 
-Licensed under GNU General Public License v3.0. you can freely use, modify, contribute and distribute this project but let me know if you are doing sth interesting.
+Licensed under MIT License. you can freely use, modify, contribute and distribute this project but let me know if you are doing sth interesting.
 
 ## Usage
 
